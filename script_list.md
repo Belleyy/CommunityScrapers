@@ -2,7 +2,7 @@
 
 - [MindGeekAPI](#MindGeekAPI)
 - [Second script](#my-second-title)
-## MindGeekAPI
+## MindGeekAPI (MindGeekAPI.yml & MindGeekAPI.py)
 ### Intro:
 A script that can get data from [MindGeek Network](https://www.thebestporn.com/review_company.html?id=2768)
 ### Requierement:
